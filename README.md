@@ -2,7 +2,7 @@
 <img src="https://media4.giphy.com/media/iOdhk1BSNJ7PsQRUN3/200w.webp?cid=ecf05e47o496xkpul3s5ufrxc041ucz49qv6klbzyplgyn63&rid=200w.webp&ct=s" alt="">
 
 <h1 align="center">Hi 👋, I'm Dennis  Masiror</h1>
-<h3 align="center">A passionate fullstack developer student.</h3>
+<h3 align="center">A passionate fullstack developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="" alt="Dennis" /> </p>
